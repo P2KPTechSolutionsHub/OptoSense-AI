@@ -1,6 +1,6 @@
 
 
-# 📈 **OptoSense-AI: Neural Network–Powered pH Prediction and Visualization**
+# 📈 **OptoSense-AI: Neural Network–Powered pH Prediction & Visualization**
 
 ### 🧠 Overview
 
