@@ -187,18 +187,13 @@ Performs:
 
 * Soil and environmental monitoring
 * Biogeochemical visualization
-* Microbial or root-zone acidification studies
 * Educational demonstrations for colorimetric sensing
 
 ---
 
 ### 📚 **Citation & Contact**
-
-
+For academic Purposes
 > **OptoSense-AI:** Neural Network–Based pH Prediction and Visualization
-> [Your Name(s)], [Your Institution], 2025.
-> DOI / GitHub link: *[to be added]*
 
-📧 Contact: [[your.email@domain.com](mailto:your.email@domain.com)]
 
 
