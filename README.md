@@ -1,7 +1,7 @@
 
 # 📈 **OptoSense-AI: Neural Network–Powered pH Prediction**
 
-**OptoSense-AI** is a Python tool for automated **pH estimation and visualization** from optode RGB images — enabling time-resolved and treatment-specific chemical gradient analysis.
+**OptoSense-AI** is a Python tool for automated **pH estimation and visualization** from optode images — enabling time-resolved and treatment-specific chemical gradient analysis.
 
 ---
 
