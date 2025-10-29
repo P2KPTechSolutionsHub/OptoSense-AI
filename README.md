@@ -73,7 +73,7 @@ pip install numpy tensorflow scikit-learn matplotlib opencv-python scikit-image 
 * `sample_pre.tiff` → numeric pH matrix
 * `training_curve.png` → loss trajectory
 
-Typical validation loss: **~0.0076 pH² units**
+Typical validation loss: **~0.076 pH² units**
 
 ---
 
